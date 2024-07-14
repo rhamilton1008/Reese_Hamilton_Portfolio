@@ -11,9 +11,12 @@ plugins:
 # Uncomment and add your Google Analytics tracking ID below if you have one
 # google_analytics: UA-000000-0
 
-# Add your social links or other configuration options below
-# For example, to add a LinkedIn link:
+# Social links configuration for the minimal theme
 social_links:
   - name: "LinkedIn"
     url: "https://www.linkedin.com/in/rahamilton19"
     icon: "fab fa-linkedin"
+
+# You might also need to add this line if the theme requires it
+show_social_links: true
+

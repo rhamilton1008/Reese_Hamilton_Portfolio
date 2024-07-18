@@ -4,7 +4,8 @@
 
 [2020 Masters Dashboard](https://aweirth.shinyapps.io/masters_dashboard/
 )
-<img src="images/thumb1.png?raw=true"/>
+<img src="images/Masters_dashboard_lb_sc.png?raw=true"/>
+<img src="images/Masters_dashboard_lb_sc.png?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)

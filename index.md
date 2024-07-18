@@ -2,7 +2,8 @@
 
 ---
 
-[Project 1 Title](sample_page)
+[2020 Masters Dashboard](https://aweirth.shinyapps.io/masters_dashboard/
+)
 <img src="images/thumb1.png?raw=true"/>
 
 ---

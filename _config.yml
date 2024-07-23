@@ -1,8 +1,7 @@
 title: "Reese Hamilton"
 logo: "/images/Composite_headshot.jpg?raw=true" # your photo (or logo) here
 description: > 
-  Reese Hamilton Data Science Portfolio  
-  Willamette University Master of Science in Data Science
+  Reese Hamilton Portfolio
 
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:

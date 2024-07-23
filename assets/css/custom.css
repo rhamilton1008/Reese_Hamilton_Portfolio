@@ -1,1 +1,38 @@
+/* assets/css/custom.css */
+
+/* Example of stabilizing layout using a fixed width */
+.container {
+  max-width: 1200px; /* or another appropriate width */
+  margin: 0 auto;
+  padding: 0 15px;
+}
+
+/* Ensure text layout remains consistent */
+.text-left {
+  text-align: left;
+  margin: 0 15px;
+}
+
+/* Customize sidebar or any specific section */
+.sidebar {
+  width: 250px;
+  position: fixed;
+}
+
+/* Adjusting font sizes for better scaling */
+body {
+  font-size: 16px;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-size: 1.5em; /* Adjust as needed */
+}
+
+/* Style for resizing the logo image */
+img[src*="Composite_headshot.jpg"] {
+  max-width: 150px; /* Adjust this value to resize the image */
+  height: auto;
+}
+
+/* Add any other custom styles you need */
 

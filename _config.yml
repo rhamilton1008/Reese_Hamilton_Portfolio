@@ -7,6 +7,13 @@ plugins:
   - jekyll-remote-theme
   - jekyll-sitemap
 
+# Add your custom CSS file
+sass:
+  style: compressed
+
+include:
+  - assets/css/custom.css
+
 # Uncomment and add your Google Analytics tracking ID below if you have one
 # google_analytics: UA-000000-0
 
@@ -17,5 +24,4 @@ social_links:
     icon: "fab fa-linkedin"
 
 show_social_links: true # Add this line if the theme requires it
-
 

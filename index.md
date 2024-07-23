@@ -5,7 +5,7 @@ Email: <a href="mailto:rahamilton.bus@gmail.com">rahamilton.bus@gmail.com</a><br
 LinkedIn: <a href="https://www.linkedin.com/in/rahamilton19" target="_blank">www.linkedin.com/in/rahamilton19</a>
 
 ## Resume
-- [My Resume]<img src="images/Screenshot 2024-07022 195624.png?raw=true"/>
+<img src="images/resume.png?raw=true"/>
 
 ## Projects
 

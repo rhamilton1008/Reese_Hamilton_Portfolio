@@ -8,7 +8,7 @@
 <img src="images/Masters_Dashboard_stats.png?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[Salem Oregon Real Estate Dashboard](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---

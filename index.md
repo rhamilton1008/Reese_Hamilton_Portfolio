@@ -1,11 +1,11 @@
 ## Personal Information
-Reese Hamilton <br>
-Cell: (360) 306-9799 <br>
-Email: rahamilton.bus@gmail.com <br>
-LinkedIn: www.linkedin.com/in/rahamilton19
+Reese Hamilton<br>
+Cell: (360) 306-9799<br>
+Email: <a href="mailto:rahamilton.bus@gmail.com">rahamilton.bus@gmail.com</a><br>
+LinkedIn: <a href="https://www.linkedin.com/in/rahamilton19" target="_blank">www.linkedin.com/in/rahamilton19</a>
 
-
-
+## Resume
+- [My Resume](pdf/Reese_Resume_Mock_Interviews.pdf)
 
 ## Projects
 

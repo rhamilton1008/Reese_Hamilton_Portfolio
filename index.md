@@ -17,7 +17,8 @@
 ---
 
 [NFL Playcall Predictive Model](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+<img src="images/NFL_playcall_randomforest.png?raw=true"/>
 
 ---
 

@@ -1,7 +1,6 @@
 title: "Reese Hamilton"
-logo: "/images/Composite_headshot.jpg?raw=true" # your photo (or logo) here
-description: > 
-  Reese Hamilton Portfolio
+logo: "/images/Composite_headshot.jpg?raw=true" # Your photo or logo here
+description: "Reese Hamilton Portfolio"
 
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
@@ -16,6 +15,6 @@ social_links:
     url: "https://www.linkedin.com/in/rahamilton19"
     icon: "fab fa-linkedin"
 
-# You might also need to add this line if the theme requires it
-show_social_links: true
+show_social_links: true # Add this line if the theme requires it
+
 
